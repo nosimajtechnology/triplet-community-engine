@@ -12,45 +12,45 @@ Copy any line, change the details, or combine two compatible ideas.
 
 ## MINI
 
-- TripleT strikes the ground once; every parked car alarm starts at the same time.
+- A strong street-level gust catches TripleT's flat wooden body like a sail; he uses the club as a rudder while lifting over one parked car.
 - TripleT enters an elevator, presses no button, and the floor counter begins counting backward.
 - TripleT walks past a vending machine; every item inside turns to face him.
-- TripleT lifts his club for one deadpan beat, then the scene cuts to a loading screen.
-- TripleT taps a streetlight three times and the entire block switches to dawn.
+- TripleT kicks a loose soccer ball with one oversized bare foot and watches it land on a distant rooftop.
+- TripleT uses his club once to pole-vault over a closing parking barrier, then continues walking.
 
 ## SCENE
 
-- TripleT approaches a locked PS2 boss door, taps three times, and the building quietly moves aside.
+- TripleT reaches a parking garage with insufficient clearance, rotates his rigid body sideways, slides underneath, and calmly straightens.
 - TripleT crosses an empty city block while identical traffic lights turn green ahead of him in sequence.
-- TripleT enters a laundromat at midnight; every machine stops, then resumes in the same rhythm.
+- An automated lumberyard forklift mistakes TripleT for a wooden beam and places him gently onto a delivery truck.
 - TripleT rides a nearly empty commuter train while the same station repeats outside every window.
-- TripleT walks through a dawn marketplace as vendors silently hide increasingly ordinary objects.
+- A construction hook catches TripleT's separate club and lifts him above the worksite because he refuses to let go.
 
 ## BUMPER
 
-- TripleT faces the camera in a blank game void, taps three times, and the Nosimaj-style ident appears.
 - A rotating low-poly TripleT freezes mid-turn as a PS2 memory-card warning flashes.
 - TripleT steps into frame, stares for one beat, and pulls the loading bar to 100 percent by hand.
 - A wooden club spins like a game pickup; TripleT catches it without changing expression.
-- TripleT knocks from outside the frame and each knock changes the skybox.
+- TripleT turns his rigid body sideways to pass through a frame that is visibly too narrow.
+- TripleT looks upward as the blank skybox finishes loading above him one tile at a time.
 
 ## FAKE AD
 
-- A sincere PS2 commercial sells a doorbell that only TripleT can hear.
-- TripleT demonstrates a midnight alarm clock that wakes every NPC except its owner.
-- A fake municipal ad hires TripleT to test the structural integrity of public doors.
-- A low-budget in-engine commercial advertises a wooden club with a three-knock warranty.
-- TripleT endorses a silent energy drink whose only effect is changing the time of day.
+- A sincere municipal commercial sells a low-clearance warning system designed for unusually tall wooden residents.
+- TripleT demonstrates a cargo scanner that repeatedly classifies him as construction timber.
+- A low-budget PS2 commercial advertises a wind-resistance harness for rectangular commuters.
+- TripleT endorses a wooden club that survives one absurdly powerful swing without splintering.
+- A fictional footwear company attempts to sell shoes to TripleT's oversized bare feet and immediately gives up.
 
 ## Remix formula
 
 ```text
-TripleT + ordinary location + one readable action + one strange consequence + PS2 game-world presentation
+TripleT-specific trait + ordinary location + one readable goal or action + one causally connected consequence + PS2 game-world presentation
 ```
 
 Example:
 
 ```text
-TripleT waits in a dentist office, taps his club three times, and every framed picture rotates upside down. Deadpan PS2 cutscene, no dialogue.
+An automated lumberyard forklift mistakes TripleT for a wooden beam, stacks him on a delivery truck, and drives away while he remains completely calm. Deadpan PS2 cutscene, no dialogue.
 ```
 
