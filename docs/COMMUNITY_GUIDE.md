@@ -11,7 +11,7 @@ It uses the bundled turnaround for identity and inspects authentic original-plat
 The strongest prompts usually contain:
 
 1. one location
-2. one clear action
+2. one clear goal or action
 3. one tone or time of day
 
 For example:
@@ -19,6 +19,8 @@ For example:
 > TripleT stands motionless in an empty supermarket aisle at 2 a.m. while the lights switch off one row at a time.
 
 Let the Engine handle lenses, polygon counts, texture language, shot variety, and prompt formatting.
+
+For short scenes, prefer one main location, limited moving subjects, and one consequence that visibly follows from the setup. Complexity is useful only when it makes the idea clearer.
 
 ## Keep TripleT recognizable
 
@@ -28,17 +30,33 @@ If identity drifts, name only the broken feature:
 
 > Restore the long rectangular body and thin legs. Keep the scene and camera unchanged.
 
+## Make the idea character-specific
+
+A TripleT concept does not need to reenact his name, repeat a tapping routine, or use the club as a weapon. Tie the premise to one or two traits that actually serve the idea:
+
+- rigid wooden height or unusual body physics
+- oversized feet and extreme proportions
+- calm uncanny expression during chaos
+- machinery or NPCs mistaking him for lumber, cargo, or another game object
+- the club as a carried prop, one-time tool, obstacle, or optional omission
+- sincere PS2 mission, vehicle, checkpoint, or environmental logic
+
+Use a simple test: if TripleT could be replaced with a generic character and nothing important would change, strengthen the character-specific hook.
+
 ## Think in meme premises
 
-Good TripleT scenes are readable before they become strange. Begin with an ordinary game-world situation, then add one absurd escalation:
+Good TripleT scenes are readable before they become strange. Begin with an ordinary game-world situation, then add one causally connected escalation:
 
-- a plaza becomes silent when he enters
+- his rigid body does not fit beneath a parking barrier, so he rotates sideways
+- a forklift classifies him as timber and loads him onto a truck
+- one oversized foot sends a soccer ball beyond the stadium
+- he remains perfectly calm while an ordinary game routine malfunctions around him
 - a boss gate opens into a laundromat
 - a commercial treats an impossible product as normal
-- a loading screen tip becomes increasingly specific
-- one repeated sound or action changes the environment
 
-Deadpan presentation usually works better than random clutter. Avoid stacking unrelated jokes, text, logos, and effects into one frame.
+The viewer should be able to follow setup -> action or situation -> consequence without captions. Deadpan presentation usually works better than random clutter, unexplained prop multiplication, or unrelated effects.
+
+When requesting several concepts, expect different mechanisms, locations, tones, and TripleT traits rather than cosmetic variations of the same action. Tapping, knocking, wake-up calls, and three-beat repetition are optional directions, not defaults.
 
 ## Approve in stages
 
