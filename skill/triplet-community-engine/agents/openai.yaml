@@ -1,0 +1,5 @@
+interface:
+  display_name: "TripleT Community Engine"
+  short_description: "Create recognizable TripleT PS2 media"
+  default_prompt: "Use $triplet-community-engine to make a deadpan PS2-era scene of TripleT entering an empty plaza before dawn."
+
